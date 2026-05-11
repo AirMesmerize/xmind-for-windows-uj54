@@ -1,4 +1,4 @@
-
+exclusive Obsidian for Windows Helper | export-options + OCR-support offers the most advanced Obsidian for Windows helper, with export-options and OCR-support. Ideal for Windows
 
 
 
